@@ -22,8 +22,14 @@ cambios desde mi rama local llamada developer01
 cambio desde mi rama nueba rama
 
 
- otraRama
+
+nueva linea desde otra rama
+
+
+nueva linea desde mi segunda rama
+
 nueva linea desde otra rama
 
 cambios desde mi rama cambioReadme
 main
+
